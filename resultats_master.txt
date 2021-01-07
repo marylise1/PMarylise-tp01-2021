@@ -1,0 +1,26 @@
+**Affichage git log******
+
+commit 2f915d9146104d164362bec047252c833c0d66a7 (HEAD -> master)
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Thu Jan 7 16:46:32 2021 +0100
+
+    Fiche 01 completee
+
+commit 32665a43e5a7eae468a18f51ad8f4df640ada5b3 (origin/master, origin/HEAD)
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:52:19 2021 +0100
+
+    Ajout des infos sur push
+
+commit 3e83647b316220d13dd995eadf6b92595e00e81e
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:40:38 2021 +0100
+
+    Ajout du cours linux
+
+commit 290cbdc59b2f4d1fee46059648bba677665a8ab8
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:08:21 2021 +0100
+
+    creation des fichiers
+

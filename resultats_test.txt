@@ -1,0 +1,51 @@
+On branch test
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fiche03.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+*********resultat de la commande status apres un git commit du fichier resultat **********************
+
+
+
+
+commit 366bb30286f186f332f1edbafc056185726fd8be (HEAD -> test)
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Thu Jan 7 17:11:25 2021 +0100
+
+    resultats_test.txt
+
+commit 427573692971e709d02996af181b8dd475b23214
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Thu Jan 7 16:56:53 2021 +0100
+
+    Fiche02.txt
+
+commit 2f915d9146104d164362bec047252c833c0d66a7 (master)
+Author: Marylise PANISSET <marylise.panisset@edu.univ-fcomte.fr>
+Date:   Thu Jan 7 16:46:32 2021 +0100
+
+    Fiche 01 completee
+
+commit 32665a43e5a7eae468a18f51ad8f4df640ada5b3 (origin/master, origin/HEAD)
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:52:19 2021 +0100
+
+    Ajout des infos sur push
+
+commit 3e83647b316220d13dd995eadf6b92595e00e81e
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:40:38 2021 +0100
+
+    Ajout du cours linux
+
+commit 290cbdc59b2f4d1fee46059648bba677665a8ab8
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:08:21 2021 +0100
+
+    creation des fichiers
+
+
+******resultat du git log ************
